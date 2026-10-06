@@ -1,0 +1,38 @@
+Unit 1: GUI Programming – Debugging Exercise Order
+
+1.  FrameTask.java                – Creating a JFrame
+2.  ComponentTask.java            – Displaying Info in JComponent
+3.  ShapeTask.java                – Working with 2D Shapes
+4.  ButtonEventTask.java          – Event Handling Basics (ActionListener)
+5.  FlowLayoutTask.java           – Layout Management (FlowLayout)
+6.  GridLayoutTask.java           – Layout Management (GridLayout)
+7.  ColorFontTask.java            – Using Color & Fonts
+8.  CheckBoxTask.java             – JCheckBox & ItemListener
+9.  ComboBoxTask.java             – JComboBox & Event
+10. ListTask.java                 – JList & Event
+11. MouseEventTask.java           – Mouse Event Handling
+12. KeyEventTask.java             – Key Event Handling
+13. MVCTask.java                  – MVC Design Pattern
+14. MenuTask.java                 – Menus in Swing
+15. TableTask.java                – JTable
+16. DialogTask.java               – Dialog Boxes
+17. TabbedPaneTask.java           – JTabbedPane
+18. SliderTask.java               – JSlider
+19. MDITask.java                  – MDI (JInternalFrame & JDesktopPane)
+20. CompleteSwingAppTask.java     – Comprehensive Swing App
+21. ImageDisplayTask.java         – Displaying Images
+22. BorderLayoutTask.java         – Layout Management (BorderLayout)
+23. WindowEventTask.java          – WindowListener / WindowAdapter
+24. MouseMotionTask.java          – MouseMotionListener / MouseAdapter
+25. FocusEventTask.java           – FocusListener / FocusAdapter
+26. MultiListenerTask.java        – Multiple Listeners
+27. PasswordFieldTask.java        – JPasswordField
+28. FileChooserTask.java          – JFileChooser
+29. EventComboTask.java           – Comprehensive Event Handling
+30. AdapterMultiTask.java         – Adapter Classes
+31. TableSelectionTask.java       – JTable Selection (ListSelectionListener)
+32. MenuEventTask.java            – Menu with ActionListener
+33. CustomEventTask.java          – Custom Events (Advanced)
+
+For focused event-handling practice, emphasise files:
+4, 8, 9, 10, 11, 12, 23, 24, 25, 26, 29, 30, 31, 32, 33
